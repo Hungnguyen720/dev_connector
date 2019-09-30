@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://hung:hung123@cluster0-tyccs.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://hung:hung123@cluster0-tyccs.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
