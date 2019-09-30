@@ -90,8 +90,8 @@ const ProfileSchema = new mongoose.Schema({
         }
     },
     date: {
-        type: date,
-        default: Date.now
+        type: Date,
+        default: Date.now()
     }
 });
 
